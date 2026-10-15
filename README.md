@@ -134,7 +134,8 @@ X=    12  Y=   -27  Z=  1003  mg
 
 ## Enlaces
 
-- [Enunciado del reto](_docs/reto_3_spi.md)
-- [Teoría del protocolo SPI](_docs/teoria_spi.md)
+[[reto_3_spi_driver|Reto 3 SPI]]
+- Enunciado del reto
+- Teoría del protocolo SPI
 - [Manual de referencia RM0090](_docs/datasheets/dm00031020.pdf)
 - [Esquemático de la placa](_docs/datasheets/stm32f407vet6_schematics.pdf)

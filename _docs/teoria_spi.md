@@ -299,4 +299,5 @@ Con FULL_RES = 1 la escala es de aproximadamente **3,9 mg por LSB** en cualquier
 
 ## Enlaces
 
-[[README|Reto 3 — README]] · [[reto_3_spi|Enunciado del reto]] · Manual de referencia RM0090: `datasheets/dm00031020.pdf`, capítulo 28 (SPI)
+[[reto_3_spi_driver|Reto 3 SPI]]
+[[reto_3_spi|Enunciado del reto]] · Manual de referencia RM0090: `datasheets/dm00031020.pdf`, capítulo 28 (SPI)

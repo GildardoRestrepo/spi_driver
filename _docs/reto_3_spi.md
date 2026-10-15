@@ -90,4 +90,5 @@ La evaluación final consistirá en una defensa técnica presencial. Durante la 
 
 ---
 ## Enlaces
-[[README|Reto 3 — README]] · [[teoria_spi|Teoría del protocolo SPI]]
+[[reto_3_spi_driver|Reto 3 SPI]]
+[[teoria_spi|Teoría del protocolo SPI]]

@@ -35,4 +35,4 @@ Texto
 
 ---
 ## Enlaces
-[[proyectos_personal|Proyectos Electrónica]]
+[[reto_3_spi_driver|Reto 3 SPI]]
