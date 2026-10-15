@@ -1,18 +1,6 @@
 ---
-title: Preparación presentación SPI
-created: 2026-10-06
-time: 07:04pm
-creator: Gilbert
-last update: 2026-10-06
-update by: Gilbert
 type: referencia
-status: borrador
-fase: ""
-area: microcontroladores
-editor: Gilbert
-order: 2
-tags:
-  - tipo/referencia
+created: 2026-10-06
 ---
 
 # Borrador de presentacion

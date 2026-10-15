@@ -1,18 +1,6 @@
 ---
-title: Explicación del firmware
-created: 2026-10-14
-time: 12:10pm
-creator: Gilbert
-last update: 2026-10-14
-update by: Gilbert
 type: referencia
-status: borrador
-fase: ""
-area: microcontroladores
-editor: Gilbert
-order: 3
-tags:
-  - tipo/referencia
+created: 2026-10-14
 ---
 
 # Explicación del firmware

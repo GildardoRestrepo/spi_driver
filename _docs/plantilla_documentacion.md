@@ -1,18 +1,6 @@
 ---
-title: Guía de estilo de documentación
-created: 2026-08-24
-time: 06:49pm
-creator: Gilbert
-last update: 2026-08-24
-update by: Gilbert
 type: referencia
-status: activo
-fase: ""
-area: gestion general de proyectos
-editor: Gilbert
-order: 0
-tags:
-  - tipo/referencia
+created: 2026-08-24
 ---
 
 # Guía de estilo de documentación

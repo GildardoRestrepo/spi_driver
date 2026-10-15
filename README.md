@@ -1,18 +1,6 @@
 ---
-title: Reto 3 — Driver SPI Bare-Metal para STM32F407
-created: 2026-10-06
-time: 06:50pm
-creator: Gilbert
-last update: 2026-10-06
-update by: Gilbert
 type: readme
-status: activo
-fase: ""
-area: microcontroladores
-editor: Gilbert
-order: 0
-tags:
-  - tipo/readme
+created: 2026-10-06
 ---
 
 # Reto 3 — Driver SPI Bare-Metal para STM32F407

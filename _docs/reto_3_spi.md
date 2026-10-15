@@ -1,18 +1,6 @@
 ---
-title: Reto Unidad 3 - Protocolos de Comunicaciones Seriales
-created: 2026-10-06
-time: 06:50pm
-creator: Gilbert
-last update: 2026-10-06
-update by: Gilbert
 type: referencia
-status: activo
-fase: ""
-area: microcontroladores
-editor: Gilbert
-order: 1
-tags:
-  - tipo/referencia
+created: 2026-10-06
 ---
 
 # Reto Unidad 3 - Protocolos de Comunicaciones Seriales
